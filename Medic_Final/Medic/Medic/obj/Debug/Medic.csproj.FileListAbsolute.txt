@@ -1,0 +1,47 @@
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\bin\Debug\Medic.exe.config
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\bin\Debug\Medic.exe
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\bin\Debug\Medic.pdb
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\bin\Debug\Guna.UI2.dll
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.csprojAssemblyReference.cache
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.Alarm.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.Form1.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.Properties.Resources.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.UC_Details.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.UC_Record.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.csproj.GenerateResource.cache
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.csproj.CoreCompileInputs.cache
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.csproj.CopyComplete
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.exe
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.pdb
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.UC_Home1.resources
+C:\Users\Thilini Chamika\source\repos\Medic\Medic\obj\Debug\Medic.UC_Reminder.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\bin\Debug\Medic.exe.config
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\bin\Debug\Medic.exe
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\bin\Debug\Medic.pdb
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.csprojAssemblyReference.cache
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.Alarm.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.Form1.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.Properties.Resources.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.UC_Details.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.UC_Home1.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.UC_Record.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.UC_Reminder.resources
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.csproj.GenerateResource.cache
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.csproj.CoreCompileInputs.cache
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.csproj.CopyComplete
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.exe
+C:\Users\Thilini Chamika\Desktop\Medic\Medic\obj\Debug\Medic.pdb
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\bin\Debug\Medic.exe.config
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.exe
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.pdb
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\bin\Debug\Medic.exe
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\bin\Debug\Medic.pdb
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.csprojResolveAssemblyReference.cache
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.Alarm.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.Form1.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.Properties.Resources.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Details.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Home1.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Record.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Reminder.resources
+C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.GenerateResource.Cache
