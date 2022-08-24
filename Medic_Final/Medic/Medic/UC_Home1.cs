@@ -16,5 +16,10 @@ namespace Medic
         {
             InitializeComponent();
         }
+
+        private void UC_Home1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

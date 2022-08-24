@@ -45,3 +45,19 @@ C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Home1.resou
 C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Record.resources
 C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Reminder.resources
 C:\Users\sewwandi\Desktop\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.GenerateResource.Cache
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\bin\Debug\Medic.exe.config
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\bin\Debug\Medic.exe
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\bin\Debug\Medic.pdb
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.AssemblyReference.cache
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.Alarm.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.Form1.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.Properties.Resources.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Details.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Home1.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Record.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.UC_Reminder.resources
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.GenerateResource.cache
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.CoreCompileInputs.cache
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.csproj.CopyComplete
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.exe
+D:\My Projects\Medical_Final\Medic_Final\Medic\Medic\obj\Debug\Medic.pdb

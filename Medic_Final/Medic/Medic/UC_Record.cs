@@ -14,7 +14,7 @@ namespace Medic
 {
     public partial class UC_Record : UserControl
     {
-        SqlConnection con = new SqlConnection("Data Source=SEWWANDI-PC\\SQLEXPRESS;Initial Catalog=MedicalReminder;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=SEWWANDI\\SQLEXPRESS;Initial Catalog=MedicalReminder;Integrated Security=True");
         SqlDataAdapter da = new SqlDataAdapter();
         DataSet ds = new DataSet();
         BindingSource TblContactsBS = new BindingSource();

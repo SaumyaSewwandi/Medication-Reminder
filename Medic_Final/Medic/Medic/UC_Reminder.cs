@@ -17,7 +17,7 @@ namespace Medic
     {
         delegate void Updatelbl(Label lbl, string value);
         delegate void Updatetime(DateTimePicker ta, string value);
-        SqlConnection con = new SqlConnection("Data Source=SEWWANDI-PC\\SQLEXPRESS;Initial Catalog=MedicalReminder;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=SEWWANDI\\SQLEXPRESS;Initial Catalog=MedicalReminder;Integrated Security=True");
         SqlDataAdapter da = new SqlDataAdapter();
         DataSet ds = new DataSet();
         BindingSource TblContactsBS = new BindingSource();
@@ -334,7 +334,7 @@ namespace Medic
                         Invoke(Upd, lblStatus, "Time to Take Medicine");
                     SoundPlayer player = new SoundPlayer();
 
-                    player.SoundLocation = @"E:\UOVT semester - III\VisualProgramming-II\MeditationSystem/notify.wav";
+                    player.SoundLocation = @"D:\My Projects\Medical_Final\Medic_Final/notify.wav";
                     player.PlayLooping();
 
                     alarm.ShowDialog();
